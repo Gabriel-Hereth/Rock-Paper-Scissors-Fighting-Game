@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: aac5902fe05361c43a8d8f3c4f3266d8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - attack: {instanceID: 0}
+  - evasionAttack: {instanceID: 0}
+  - specialAttack: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,34 @@
+{
+    "name": "Test Controls",
+    "maps": [
+        {
+            "name": "Controller",
+            "id": "33bd2eb9-c855-485a-beef-31cb80529021",
+            "actions": [
+                {
+                    "name": "Go Up",
+                    "type": "Button",
+                    "id": "bc2efea5-fb96-4f51-80b6-4d581289c72d",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "9e0cae1d-8578-4e44-88bc-967566bf149c",
+                    "path": "<Gamepad>/buttonNorth",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Go Up",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

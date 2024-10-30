@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ba173b01dc2f46ba9bb59901ae05c05, type: 3}
+  m_Name: TestAttack
+  m_EditorClassIdentifier: 
+  attackHitbox: {fileID: 6695435926242679737, guid: bc21fc18a958f45959f46661d601d732, type: 3}
+  spawnPoint: {fileID: 1763091379138287391, guid: a4523cd963243459e99b8809aa662136, type: 3}
+  isParented: 0
+  attackLength: 0.5
+  knockbackForceHorizontal: 15
+  knockbackForceVertical: 15
+  damage: 5
+  stunDuration: 0
+  windupTime: 0.3
+  cooldownTime: 0.6
+  dashForce: 0
